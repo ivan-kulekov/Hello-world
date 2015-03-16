@@ -1,3 +1,7 @@
 Tuk insertvam hello1
 i sega...
+<<<<<<< HEAD
 a az dobavqm dryg
+=======
+I obnoven sega
+>>>>>>> 09ea0e7565eab4c452ae3e3c0e641e86aa8b9142
